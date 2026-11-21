@@ -1,7 +1,17 @@
-# Mantenimiento IPF — Sistema de Reportes Edilicios
-## Trabajo Práctico N° 3 — Permisos móviles: Android, iOS y Expo
-**Tecnicatura Superior en Desarrollo de Software Multiplataforma · Instituto Politécnico Formosa**  
-**Taller Complementario – React Native II**
+<div align="center">
+
+# Mantenimiento IPF
+
+## Sistema de Reportes Edilicios
+
+### Trabajo Práctico N° 3 — Permisos móviles: Android, iOS y Expo
+
+**Tecnicatura Superior en Desarrollo de Software Multiplataforma**  
+**Instituto Politécnico Formosa · Taller Complementario – React Native II**
+
+**Autor: ybars alan**
+
+</div>
 
 ---
 
